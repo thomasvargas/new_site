@@ -71,4 +71,4 @@ I'm a Postdoctoral Fellow in Political Science at McMaster University, where I s
 
 I was born and raised in San José, Costa Rica. I obtained my PhD in Political Science from the University of Minnesota. Prior to graduate school, I worked for two years for the MIT Poverty Action Lab (J-PAL) in Santiago, Chile. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Vargas_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Vargas_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
