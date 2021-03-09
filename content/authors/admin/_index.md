@@ -58,7 +58,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: media/resume.pdf
+   link: uploads/Vargas_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "thomasvargasc@gmail.com"
@@ -67,8 +67,8 @@ email: "thomasvargasc@gmail.com"
 highlight_name: false
 ---
 
-I am a Postdoctoral Fellow in Political Science at McMaster University, where I study education politics in Latin America. I also serve as Editorial Assistant for the *American Political Science Review*. 
+I am a Postdoctoral Fellow in Political Science at McMaster University, where I study education politics in Latin America and serve as Editorial Assistant for the *American Political Science Review*. I'm also an #rstats fan.
 
 I obtained my PhD in Political Science from the University of Minnesota, where I had the pleasure of serving as Managing Editor for *Comparative Political Studies* from 2016-2018. Prior to graduate school, I worked for two years for the MIT Poverty Action Lab (J-PAL) in Santiago, Chile. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Vargas_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
