@@ -21,14 +21,11 @@ header:
 
 ## About My Teaching
 
-I have background in comparative politics, international relations, public policy, statistics and econometrics. I have taught or TAed for the following classes:
+I am currently teaching upper-year classes in Comparative Politics at McMaster. Sample syllabi:
 
+* Democratization (McMaster.) 
 
-* J-PAL's Evaluating Social Programs.
+* Development and Public Policy (McMaster.) Syllabus {{% staticref "uploads/polsci33L3.pdf" %}}here{{% /staticref %}}.
 
-* Intro to Comparative Politics, at UMN.
-
-* Struggles and Issues in the Middle East, at UMN.
-
-* Political Economy of Development, at UMN. Syllabus {{% staticref "files/pol3477.pdf" %}}here{{% /staticref %}}.
+* Political Economy of Development (UMN.) Syllabus {{% staticref "uploads/pol3477.pdf" %}}here{{% /staticref %}}.
 
