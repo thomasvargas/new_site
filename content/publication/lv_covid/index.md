@@ -29,7 +29,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "files/lv_mex_covid.pdf"
+url_pdf: "uploads/papers/lv_mex_covid.pdf"
 url_code: 'https://github.com/thomasvargas/lv_mex_covid_2020'
 url_dataset: 'https://github.com/thomasvargas/lv_mex_covid_2020/tree/master/data'
 url_poster: ''

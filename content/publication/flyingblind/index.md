@@ -29,7 +29,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "files/vargas_flyingblind.pdf"
+url_pdf: "uploads/papers/vargas_flyingblind.pdf"
 url_code: 'https://github.com/thomasvargas/flyingblind'
 url_dataset: 'https://github.com/thomasvargas/flyingblind/tree/master/data'
 url_poster: ''
