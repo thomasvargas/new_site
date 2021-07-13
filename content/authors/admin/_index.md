@@ -67,7 +67,7 @@ email: "thomasvargasc@gmail.com"
 highlight_name: false
 ---
 
-I'm a Postdoctoral Fellow in Political Science at McMaster University, where I study education politics in Latin America and serve as Editorial Assistant for the *American Political Science Review*. I'm also an #rstats fan/evangelist.
+I'm a Postdoctoral Fellow in Political Science at McMaster University, where I study issues in political economy and public policy and serve as Editorial Assistant for the *American Political Science Review*. I'm also an #rstats fan/evangelist.
 
 I was born and raised in San José, Costa Rica. I obtained my PhD in Political Science from the University of Minnesota. Prior to grad school, I worked for two years for the MIT Poverty Action Lab (J-PAL) in Santiago, Chile. 
 
