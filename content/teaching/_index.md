@@ -23,7 +23,7 @@ header:
 
 I am currently teaching upper-year classes in Comparative Politics at McMaster. Sample syllabi:
 
-* Democratization (McMaster.) 
+* Democratization (McMaster.) Syllabus {{% staticref "uploads/polsci3KC3.pdf" %}}here{{% /staticref %}}.
 
 * Development and Public Policy (McMaster.) Syllabus {{% staticref "uploads/polsci33L3.pdf" %}}here{{% /staticref %}}.
 
