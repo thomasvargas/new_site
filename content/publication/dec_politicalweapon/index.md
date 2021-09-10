@@ -2,7 +2,7 @@
 title: "Decentralization as a Political Weapon: Education Politics in El Salvador and Paraguay"
 authors:
 - admin
-date: "2021-09-91T00:00:00Z"
+date: "2021-09-09T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 
