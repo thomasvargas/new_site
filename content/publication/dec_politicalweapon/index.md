@@ -17,7 +17,7 @@ publication_types: ["3"]
 publication: "*Comparative Politics*"
 publication_short: ""
 
-abstract: What explains why some governments advance decentralized education in the 1990s while others shy away from such efforts? Some arguments suggest that decentralization was pursued to improve the coverage and quality of education. Others point to partisanship, ideology, or diffusion. Drawing on a case study of El Salvador and Paraguay, I argue instead that education decentralization was pursued in part because it could be deployed as a political weapon to weaken teachers’ unions affiliated with the opposition, thus depressing mobilization and votes for their rivals. These findings contribute to the literature on decentralization by highlighting a new political motivation fueling decentralization efforts across the developing world--the demobilization of the opposition.
+abstract: What explains why some governments advanced decentralized education in the 1990s while others shied away from such efforts? Some arguments suggest that decentralization was pursued to improve the coverage and quality of education. Others point to partisanship, ideology, or diffusion. Drawing on a case study of El Salvador and Paraguay, I argue instead that governments pursued education decentralization in part because it could be deployed as a political weapon to weaken teachers’ unions affiliated with the opposition, thus depressing mobilization and votes for their rivals. These findings contribute to the literature on decentralization by highlighting a new political motivation fueling decentralization efforts across the developing world—the demobilization of the opposition.
 
 tags:
 - Latin America
