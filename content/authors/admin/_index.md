@@ -10,11 +10,11 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: McMaster University
-  url: https://www.mcmaster.ca/
+- name: Impact Canada
+  url: https://impact.canada.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a political scientist at McMaster University interested in the politics of development, education, and social policy in the developing world.
+bio: I'm a political scientist working at Impact Canada.
 
 # Interests to show in About widget
 interests:
@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:vargasct@mcmaster.ca"
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:vargasct@mcmaster.ca"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/thomasvargasc
@@ -70,8 +70,8 @@ email: "thomasvargasc@gmail.com"
 highlight_name: false
 ---
 
-I'm a Postdoctoral Fellow in Political Science at McMaster University, where I study issues in political economy and public policy and serve as Editorial Assistant for the *American Political Science Review*. I'm also an #rstats fan/evangelist.
+I'm a Behavioural Science Fellow at the Impact and Innovation Unit in the Privy Council Office of Canada, supporting evidence-based work across the federal government. A political scientist by training, I currently serve as Editorial Assistant for the *American Political Science Review*. I'm also an #rstats fan/evangelist.
 
-I was born and raised in San José, Costa Rica. I obtained my PhD in Political Science from the University of Minnesota. Prior to grad school, I worked for two years for the MIT Poverty Action Lab (J-PAL) in Santiago, Chile. 
+I was born and raised in San José, Costa Rica, before immigrating to Canada in 2020. I obtained my PhD in Political Science from the University of Minnesota. Prior to grad school, I worked for two years for the MIT Poverty Action Lab (J-PAL) in Santiago, Chile. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Vargas_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
