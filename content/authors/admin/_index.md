@@ -6,7 +6,7 @@ title: Thomas Vargas
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Behavioural Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
