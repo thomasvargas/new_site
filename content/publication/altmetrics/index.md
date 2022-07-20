@@ -1,9 +1,9 @@
 ---
 title: "Closing the Gender Gap? How Altmetrics Influence Citation Counts for Political Science Journal Articles"
 authors:
-- admin
 - Michelle L. Dion
 - Sara McLaughlin Mitchell
+- admin
 date: "2022-06-02T00:00:00Z"
 doi: 
 
