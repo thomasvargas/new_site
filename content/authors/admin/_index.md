@@ -70,8 +70,8 @@ email: "thomasvargasc@gmail.com"
 highlight_name: false
 ---
 
-I'm a Behavioural Science Fellow at the Impact and Innovation Unit in the Privy Council Office of Canada, supporting evidence-based work across the federal government. A political scientist by training, I previously served as Editorial Assistant for the *American Political Science Review* and Managing Editor for *Comparative Political Studies*. I'm also an #rstats fan/evangelist.
+I'm a Behavioural Science Fellow at the Impact and Innovation Unit, Privy Council Office, Government of Canada, supporting evidence-based work across the federal government. My published work explores the politics of education and issues in political economy. These days I'm thinking about trust in government and the spread of misinformation and disinformation on social networks.
 
-I was born and raised in San José, Costa Rica before immigrating to Canada in 2020. I obtained my PhD in Political Science from the University of Minnesota. Prior to grad school, I worked for two years for the MIT Poverty Action Lab (J-PAL) in Santiago, Chile. These days I'm thinking about trust in government and the spread of misinformation and disinformation on social networks.
+I was born and raised in San José, Costa Rica before moving to the US for my university training. I moved to Canada in 2020. A political scientist by training, I previously served as Editorial Assistant for the *American Political Science Review* and Managing Editor for *Comparative Political Studies*. Prior to grad school, I worked for two years for the MIT Poverty Action Lab (J-PAL) in Santiago, Chile. I'm also an #rstats fan/evangelist.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Vargas_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
