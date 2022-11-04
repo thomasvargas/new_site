@@ -3,6 +3,7 @@ title: "Decentralization as a Political Weapon: Education Politics in El Salvado
 authors:
 - admin
 date: "2021-09-09T00:00:00Z"
+doi: "10.5129/001041522X16382201562711"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 
