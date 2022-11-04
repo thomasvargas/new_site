@@ -27,7 +27,7 @@ featured: true
 
 # links:
 # - name: ""
-#   url: ""
+#   url: "https://www-ingentaconnect-com.libaccess.lib.mcmaster.ca/contentone/cuny/cp/2022/00000055/00000001/art00003;jsessionid=6vd4nd5oh54md.x-ic-live-03"
 url_pdf: "uploads/papers/vargas_decentralizationweapon.pdf"
 url_code: 'https://github.com/thomasvargas/political_origins'
 url_dataset: 'https://github.com/thomasvargas/political_origins'

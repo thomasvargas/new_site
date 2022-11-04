@@ -17,7 +17,7 @@ publishDate:
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "International Studies Perspective"
 publication_short: ""
 
 abstract: Gendered citation patterns in political science resemble those in many other disciplines (e.g., economics, sociology, linguistics, ecology) and show a tendency for men/mixed gender author teams to cite research by women less frequently than women authors. This citation behavior generates a citation gender gap for traditional citation metrics (e.g., citation counts, h-index). These dynamics contributed to the development of Altmetrics, one measure that captures the quantity and quality of online attention to research in multiple outlets such as news coverage, blog posts, and social media. These non-academic venues enable scholars to promote their work more actively to broad audiences. Given that women academics are as active on social media as men, Altmetrics may display fewer gender gaps. However, whether these new measures translate into better research impact using traditional citation metrics remains unclear. Our paper analyzes the relationship between Altmetrics scores (and Tweet counts) in 2017 and citations in 2021 for 8,493 articles in 21 political science journals while controlling for authors’ gender. Consistent with previous literature, we find that higher online attention scores significantly increase articles’ citation counts. We also find that solo authored pieces show the strongest marginal effects, and that solo women and women author teams accrue more citations as Altmetrics scores increase. Our results suggest that online promotion of political science research will help to shrink the gender citation gap. 
@@ -29,7 +29,7 @@ featured: true
 
 # links:
 # - name: ""
-#   url: ""
+#   url: "https://academic.oup.com/isp/advance-article-abstract/doi/10.1093/isp/ekac009/6705570?redirectedFrom=fulltext"
 url_pdf: ""
 url_code: ''
 url_dataset: ''
