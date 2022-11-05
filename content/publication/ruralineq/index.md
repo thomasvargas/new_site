@@ -32,7 +32,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: "uploads/papers/samuelsvargas.pdf"
-url_code: 
+url_code: "https://github.com/thomasvargas/democracy_ruralinequality"
 url_dataset:
 url_poster: ''
 url_project: ''
