@@ -5,7 +5,7 @@ authors:
 - admin
 
 date: "2022-11-02T00:00:00Z"
-doi: 
+doi: "https://doi.org/10.1016/j.worlddev.2022.106136"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 
