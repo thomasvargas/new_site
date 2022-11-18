@@ -19,6 +19,7 @@ bio: I'm a political scientist working at Impact Canada.
 # Interests to show in About widget
 interests:
 - Politics of Education
+- Misinformation
 - Causal Inference
 - Data Science
 
