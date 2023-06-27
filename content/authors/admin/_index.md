@@ -6,18 +6,19 @@ title: Thomas Vargas
 superuser: true
 
 # Role/position/tagline
-role: Behavioural Scientist
+role: Research Lead
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Impact Canada
-  url: https://impact.canada.ca/
+- name: New Power Labs
+  url: https://www.newpowerlabs.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a political scientist working at Impact Canada.
+bio: I'm the Research Lead at New Power Labs.
 
 # Interests to show in About widget
 interests:
+- Barriers to Capital 
 - Politics of Education
 - Misinformation
 - Causal Inference
@@ -71,7 +72,7 @@ email: "thomasvargasc@gmail.com"
 highlight_name: false
 ---
 
-I'm a Behavioural Science Fellow at the Impact and Innovation Unit, Privy Council Office, Government of Canada, supporting evidence-based work across the federal government. My published work explores the politics of education and issues in political economy. These days I'm thinking about trust in government and the spread of misinformation and disinformation on social networks.
+I'm the Research Lead at New Power Labs where I help leverage research to make capital flows more equitable across Canada. Previously I was a Behavioural Scientist at the Impact and Innovation Unit at the Privy Council Office, Government of Canada, where I supported evidence-based work across the federal government. My published work explores the politics of education and issues in political economy.
 
 I was born and raised in San José, Costa Rica before moving to the US for my university training. I moved to Canada in 2020. A political scientist by training, my work appears in *Comparative Politics*, *World Development*, and other journals. Prior to grad school, I worked for two years for the MIT Poverty Action Lab (J-PAL) in Santiago, Chile. I'm also an #rstats fan/evangelist.
 
