@@ -6,7 +6,7 @@ title: Thomas Vargas
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Senior Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
