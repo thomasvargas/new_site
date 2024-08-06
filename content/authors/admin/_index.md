@@ -72,8 +72,8 @@ email: "thomasvargasc@gmail.com"
 highlight_name: false
 ---
 
-I'm the Research Lead at New Power Labs where I help leverage research to make capital flow more equitably across Canada. My published work explores the politics of education and issues in political economy.
+I'm a Senior Researcher at Rethink Priorities where I do work in global health and development. My published work explores the politics of education and issues in political economy.
 
-I was born and raised in San José, Costa Rica before moving to the US for my university training. I settled in Canada in 2020. A political scientist by training, my work appears in *Comparative Politics*, *World Development*, and other journals. Prior to grad school, I worked for two years for the MIT Poverty Action Lab (J-PAL) in Santiago, Chile. I'm also an #rstats fan/evangelist.
+I was born and raised in San José, Costa Rica before moving to the US for my university studies. I settled in Canada in 2020. A political scientist by training, my work appears in *Comparative Politics*, *World Development*, and other journals. Prior to grad school, I worked for two years for the MIT Poverty Action Lab (J-PAL) in Santiago, Chile. I'm also an #rstats fan/evangelist.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Vargas_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
