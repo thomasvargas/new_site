@@ -6,12 +6,12 @@ title: Thomas Vargas
 superuser: true
 
 # Role/position/tagline
-role: Research Lead
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: New Power Labs
-  url: https://www.newpowerlabs.org
+- name: Rethink Priorities
+  url: https://rethinkpriorities.org
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a Senior Researcher at Rethink Priorities. 
