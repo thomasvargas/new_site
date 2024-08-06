@@ -14,15 +14,13 @@ organizations:
   url: https://www.newpowerlabs.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm the Research Lead at New Power Labs.
+bio: I'm a Senior Researcher at Rethink Priorities. 
 
 # Interests to show in About widget
 interests:
-- Barriers to Capital 
-- Politics of Education
-- Misinformation
+- International Development
+- Political Economy
 - Causal Inference
-- Data Science
 
 # Education to show in About widget
 education:
@@ -44,7 +42,7 @@ education:
 social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: "mailto:vargasct@mcmaster.ca"
+#  link: "mailto:trv@georgetown.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/thomasvargasc
@@ -72,7 +70,7 @@ email: "thomasvargasc@gmail.com"
 highlight_name: false
 ---
 
-I'm a Senior Researcher at Rethink Priorities where I do work in global health and development. My published work explores the politics of education and issues in political economy.
+I'm a Senior Researcher at Rethink Priorities where I support the Global Health and Development team. My published work explores the politics of education and issues in political economy.
 
 I was born and raised in San José, Costa Rica before moving to the US for my university studies. I settled in Canada in 2020. A political scientist by training, my work appears in *Comparative Politics*, *World Development*, and other journals. Prior to grad school, I worked for two years for the MIT Poverty Action Lab (J-PAL) in Santiago, Chile. I'm also an #rstats fan/evangelist.
 
