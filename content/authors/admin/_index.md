@@ -20,7 +20,7 @@ bio: I'm a Senior Researcher at Rethink Priorities.
 interests:
 - International Development
 - Political Economy
-- Causal Inference
+- Causal Inference 
 
 # Education to show in About widget
 education:
